@@ -1,9 +1,9 @@
----
+#---
 layout: page
-#permalink: /coc/
+permalink: /coc/
 title: Code of Conduct
 description: We provide an additional code of conduct to ensure a safe environment to reflect on ML research.
----
+#---
 
 HAMLETS workshop  prioritize the maintenance of an inclusive environment that allows for a diversity of researchers to honestly reflect on developments in the field and opportunities for growth.  Because critically reflecting on previous work is a sensitive subject, we outline here a set of principles and processes to support honest self-reflection within a healthy community of machine learning researchers.
 
