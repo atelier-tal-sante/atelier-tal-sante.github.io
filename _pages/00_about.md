@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: HAMLETS (Human And Machine in-the-Loop Evaluation and Learning Strategies) - December 12th @ NeurIPS 2020 from 8:15AM PT
-description: Human involvement in AI system design, development, and evaluation is critical to ensure that the insights being derived are practical, and the systems built are meaningful, reliable, and relatable to those who need them. Humans play an integral role in all stages of machine learning development, be it during data generation, interactively teaching, or interpreting, evaluating and debugging models. With growing interest in such “human in the loop” learning, we aim to highlight research in evaluation and training strategies for humans and models in the loop. 
+title: TAL@Santé 
+description: Cet atelier d’une journée a pour objectif de fédérer la communauté francophone TAL et santé, afin de croiser outils, méthodes, ressources, retours d’expérience et perspectives. L’atelier vise explicitement (i) à structurer un espace d’échange scientifique régulier autour des enjeux du TAL appliqué aux textes cliniques et biomédicaux, (ii) à comprendre et améliorer les pratiques d’évaluation et de reproductibilité, et (iii) à discuter des conditions de transfert vers des usages réels (hôpital, recherche clinique, santé publique, information patient), avec une attention aux enjeux d’éthique, d’équité et de fiabilité.
 
 profile:
   align: right
@@ -12,62 +12,26 @@ news: true
 social: true
 organizers: true
 ---
-#### <strong>Special Focus</strong>: We would especially like to highlight emerging and underexplored areas of human and model-in-the-loop learning, such as employing humans to seek richer forms of feedback for data than labels alone, learning from dynamic adversarial data collection with humans employed to find weaknesses in models, learning from human teachers instructing computers through conversation and/or demonstration, investigating the role of humans in model interpretability, and assessing social impact of ML systems. We aim to bring together interdisciplinary researchers from academia and industry to discuss major challenges, outline recent advances, and facilitate future research in these areas.
+#### Objectifs :
 
-#### Topics of interest for submission include but are not limited to the following:
+*	Panorama de travaux scientifiques actuels du TAL pour la santé, avec appel à contributions sous la forme d’articles scientifiques, présentés ensuite pendant la journée sous la forme de posters ou de présentations orales.
+*	Présentation d’un.e chercheu.r.se invité.e sur une thématique émergente.
+*	Ouvrir la discussion (table ronde) sur l’avenir du TAL pour la santé et les grands enjeux scientifiques des prochaines années
 
-  <table style="background-color: #FAFAFA;">
-        <col width="40">
-        <col width="100">
-        <tr style="border: none;">       
-            <td style="border: none;">
-            <b> <font size="+0" color="purple">Active and Interactive Learning</font> </b>
-            </td>
-            <td style="border: none;">
-            <i> Machine teaching, including instructable agents for real-world decision making (robotic systems, natural language processing, computer vision)</i>   
-            </td>                        
-        </tr>
-        <tr style="border: none;">    
-        <td style="border: none;">
-            <b> <font size="+0" color="purple">Interpretability</font></b> 
-            </td>
-            <td style="border: none;">
-            <i> Role of humans in building trustworthy AI systems: model interpretability and algorithmic fairness.</i>
-            </td>  
-        </tr>
-        <tr style="border: none;">
-        <td style="border: none;">
-            <b> <font size="+0" color="purple">Human as Model Adversary</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Richer human feedback, probing weaknesses of machine learning models</i>
-            </td>
-        </tr>
-        <tr style="border: none;">
-        <td style="border: none;">
-            <b> <font size="+0" color="purple">System Design</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Design of creative interfaces for data annotation, data visualization, interactive visualization</i>
-            </td>
-        </tr>
-        <tr style="border: none;">
-        <td style="border: none;">
-            <b> <font size="+0" color="purple">Model Evaluation</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Role of humans in evaluating model performance for generation, robustness to input</i>
-            </td>
-        </tr>
-        <tr style="border: none;">
-            <td style="border: none;">
-            <b><font size="+0" color="purple">Crowdsourcing</font></b>
-            </td>
-            <td style="border: none;">
-            <i> Best practices for improving worker engagement, preventing annotation artifacts, maximizing crowd-sourced data quality and efficiency</i>
-            </td>
-        </tr>
-  </table>   
+#### Thématiques possibles :
+
+*	Extraction d’entités, relations, événements complexes
+*	Extraction d’information et classification 
+*	Accessibilité : simplification de textes médicaux, littératie en santé, communication patient–soignant
+*	Enjeux éthiques
+*	Mésinformation et qualité de l’information sur la santé
+*	Détection/atténuation des biais
+*	Approches frugales
+*	Cadres d’évaluation, reproductibilité et métriques orientées vers l’usage pour la santé
+*	Enjeux liés aux approches génératives : factualité et traçabilité (RAG, citations, vérification), détection d’hallucinations, etc.
+*	Schémas d’annotation, méthodologie de construction de ressources annotées, annotation assistée par LLM
+*	Création de modèles de langue, adaptation de domaine, apprentissage par transfert, apprentissage fédéré, apprentissage faiblement supervisé
+*	Analyse de la littérature pour la santé
 
 
 
@@ -76,7 +40,7 @@ organizers: true
     <br>
 </div>
 
-Questions? Contact *hamlets.neurips2020@gmail.com*.
+Questions? Contact *atelier.tal.sante@gmail.com*.
 
 
 
