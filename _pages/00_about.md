@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: TAL@Santé 
+title: TAL@Santé 2026
 description: Cet atelier d’une journée a pour objectif de fédérer la communauté francophone TAL et santé, afin de croiser outils, méthodes, ressources, retours d’expérience et perspectives. L’atelier vise explicitement (i) à structurer un espace d’échange scientifique régulier autour des enjeux du TAL appliqué aux textes cliniques et biomédicaux, (ii) à comprendre et améliorer les pratiques d’évaluation et de reproductibilité, et (iii) à discuter des conditions de transfert vers des usages réels (hôpital, recherche clinique, santé publique, information patient), avec une attention aux enjeux d’éthique, d’équité et de fiabilité.
 
 profile:
