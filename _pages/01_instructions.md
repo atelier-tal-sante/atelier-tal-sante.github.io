@@ -2,16 +2,16 @@
 layout: page
 permalink: /cfp/
 title: Call for Papers
-description: Information about submitting to the NeurIPS 2020 HAMLETS workshop. 
+description: Information about submitting to the TAL@Santé 2026 workshop. 
 ---
 
 #### Key Dates 
 
-* Call for papers announcement: August 14
-* Submission deadline: ~~October 9~~ October 14 ((23:59 AoE)
-* Accept/Reject notifications: October 30
-* Camera-ready due: ~~November 15~~ November 30
-* Workshop: December 12
+* Call for papers announcement: 7 mars 2026
+* Date limite de soumission : 10 avril 2026 (23:59 AoE)
+* Notification aux auteurs : 30 avril 2026
+* Versions définitives : 15 mai 2026
+* Workshop: 29 juin 2026
 
 #### Submission Instructions
 
