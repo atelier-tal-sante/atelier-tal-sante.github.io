@@ -40,7 +40,7 @@ organizers: true
     <br>
 </div>
 
-Questions? Contact *atelier.tal.sante@gmail.com*.
+Questions? Contact atelier-tal-sante@univ-nantes.fr .
 
 
 
