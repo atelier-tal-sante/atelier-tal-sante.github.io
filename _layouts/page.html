@@ -21,6 +21,10 @@ layout: default
     {% include organizers.html %}
   {% endif %}
 
+  {% if page.comitee %}
+    {% include comitee.html %}
+  {% endif %}
+
   {% if page.social %}
     {% include social.html %}
   {% endif %}
