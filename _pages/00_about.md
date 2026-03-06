@@ -11,6 +11,7 @@ profile:
 news: true
 social: true
 organizers: true
+comitee: true
 ---
 #### Objectifs :
 
