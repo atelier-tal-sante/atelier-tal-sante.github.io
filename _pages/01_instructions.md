@@ -27,7 +27,7 @@ description: Information about submitting to the TAL@Santé 2026 workshop.
 
 #### Submission Instructions
 
-* Submissions should be made in PDF format through OpenReview: [https://openreview.net/group?id=ls2n.fr/CORIA-TALN/2026/Workshop/TALSante](https://openreview.net/group?id=ls2n.fr/CORIA-TALN/2026/Workshop/TALSante).
+* Submissions should be made in PDF format through OpenReview: [https://openreview.net/group?id=ls2n.fr/CORIA-TALN/2026/Workshop/TAL-Sante](https://openreview.net/group?id=ls2n.fr/CORIA-TALN/2026/Workshop/TAL-Sante).
 * Submissions should be anonymized and follow the [CORIA-TALN 2026 format](https://coria-taln-2026.ls2n.fr/soumission/).
 * Reviewing is done double-blind.
 * The official language of the conference is French. If all authors are French-speaking, the papers must be written in French. If one of the authors is not French-speaking, the papers may be written in English.
